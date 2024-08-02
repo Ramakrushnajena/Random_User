@@ -1,0 +1,25 @@
+.container {
+    height: 350px;
+    width: 500px;
+    border: 0.5px solid black;
+    border-radius: 10%;
+    margin: auto;
+    margin-top: 150px;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}
+
+h1 {
+    margin-left: 80px;
+}
+
+button {
+    margin-left: 160px;
+}
+
+.user-container {
+    margin-top: 10px;
+    margin-left: 160px;
+}
